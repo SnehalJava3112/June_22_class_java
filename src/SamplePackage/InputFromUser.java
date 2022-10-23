@@ -1,7 +1,11 @@
 package SamplePackage;
 import java.util.Scanner;
 
-// Input from user
+/* Input from user -> String=s.next() 
+					  int=s.nextInt() 
+					  double=s.nextDouble() 
+					  char=s.next().charAt(0)	
+*/
 
 public class InputFromUser 
 {

@@ -8,7 +8,7 @@ public class HashSetCollection
 {
 	public static void main(String[] args) 
 	{
-		HashSet hs = new HashSet<>();
+		HashSet hs = new HashSet();
 		System.out.println(hs.isEmpty());
 		hs.add("Aishwarya");
 		hs.add("Saturwar");

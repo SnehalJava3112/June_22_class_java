@@ -5,16 +5,15 @@ public class Sample_4
 	public static void main(String[] args) 
 	{
 		int[] a= {0,1,2,3,4,5,6,7,8,9};
-		int b=0;
 		int c=10;
 		int d=0;
 		try
 		{
-			d=a[8]/c;
+			d=a[8]/c;  // d=8/10=0;
 			System.out.println("d="+d);
 			try
 			{	
-				System.out.println(c/d);
+				System.out.println(c/d);  //10/0
 			}
 			catch (ArithmeticException ae)
 			{

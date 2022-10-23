@@ -14,7 +14,7 @@ public class SampleAspire
 		String fname = method1("Snehal")+name;
 		System.out.println("Final name of student = "+fname);
 		
-		String fname2 = method1("Sangeeta")+name;
+		String fname2 = method1("Shailendra")+name;
 		System.out.println("Final name of student = "+fname2);		
 	}
 }
