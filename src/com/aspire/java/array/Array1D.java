@@ -11,7 +11,6 @@ public class Array1D
 	public static void main(String[] args)
 	{
 		int a;
-		String b="Snehapank";
 		
 		int[] c= {7,5,88,9,'A',66,3,5562,9,4,0,34};
 		System.out.println(c[4]);	// for char its showing ascii value

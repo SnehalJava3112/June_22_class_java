@@ -4,8 +4,8 @@ public class Array2D
 {
 	public static void main(String[] args) 
 	{
-		int rows=3;
-		int column=4;
+		//int rows=3;
+		//int column=4;
 		
 		int a[][] = new int [3][4];
 		a[0][0]='A'; a[0][1]=01; a[0][2]=02; a[0][3]=03;
